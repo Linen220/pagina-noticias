@@ -16,16 +16,16 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Screenshot
 
-![](./asset/images/Screenshot_1.png)
-![](./asset/images/Screenshot_2.png)
-![](./asset/images/Screenshot_3.png)
+![](./assets/images/Screenshot_1.png)
+![](./assets/images/Screenshot_2.png)
+![](./assets/images/Screenshot_3.png)
 
 <br>
 
 ## Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/second-challenge-L2tYEnK_py)
-- Live site URL: (https://linen220.github.io/product-preview/)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/second-challenge-L2tYEnK_py)
+- Live site URL: [click here](https://linen220.github.io/product-preview/)
 
 <br>
 
