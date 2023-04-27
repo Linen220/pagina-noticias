@@ -24,8 +24,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-- Solution URL: [click here](https://www.frontendmentor.io/solutions/second-challenge-L2tYEnK_py)
-- Live site URL: [click here](https://linen220.github.io/product-preview/)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/third-solution-ovExMuHF3E)
+- Live site URL: [click here](https://linen220.github.io/pagina-noticias/)
 
 <br>
 
